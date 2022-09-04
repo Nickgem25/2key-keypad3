@@ -1,0 +1,17 @@
+Id,Designator,Package,Quantity,Designation,Supplier and ref
+1,SW1,SKQG-1155865,1,SW_Push,
+2,MX1 MX2,MX-1U-NoLED,2,MX-NoLED,
+3,R5 R6 ,R_0805_2012Metric,2,5.1k,
+4,U1,TQFP-44_10x10mm_P0.8mm,1,ATmega32U4-A,
+5,D1 D2,D_SOD-123,2,SOD-123,/
+6,C4 C5 C6,C_0805_2012Metric,3,0.1uF,
+7,Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,1,16MHz,
+8,R1 R4,R_0805_2012Metric,2,10k,
+9,C1,R_0805_2012Metric,1,22pf,
+10,C2,C_0805_2012Metric,1,22pf,
+11,U2,SOT-23-6-routable,1,SRV05-4,
+12,R2 R3,R_0805_2012Metric,2,22,
+13,C7,C_0805_2012Metric,1,10uF,
+14,F1,Fuse_1206_3216Metric,1,500mA,/
+15,C3,C_0805_2012Metric,1,1uF,
+16,J1,USB_C_Receptacle_HRO_TYPE-C-31-M-12,1,USB_C_Receptacle_USB2.0,
